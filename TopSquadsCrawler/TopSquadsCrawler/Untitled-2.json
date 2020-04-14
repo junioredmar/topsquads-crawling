@@ -1,0 +1,33 @@
+Request URL: https://utas.external.s2.fut.ea.com/ut/game/fifa20/transfermarket?start=0&num=21&type=player&maskedDefId=198717&maxb=3200
+
+Request Method: GET
+Status Code: 200 OK
+Remote Address: 127.0.0.1:8888
+Referrer Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: https://www.easports.com
+Access-Control-Expose-Headers: Retry-After
+Cache-Control: max-age=30, private
+Content-Encoding: gzip
+Content-Length: 1686
+Content-Type: application/json;charset=utf-8
+Date: Fri, 10 Apr 2020 18:21:18 GMT
+Server: Jetty(9.4.7.v20170914)
+X-UnzippedLength: 21808
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Connection: keep-alive
+Content-Type: application/json
+Host: utas.external.s2.fut.ea.com
+Origin: https://www.easports.com
+Referer: https://www.easports.com/fifa/ultimate-team/web-app/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+X-UT-SID: 24fa9712-7976-4f73-a87e-739dd3ddbc54
+start: 0
+num: 21
+type: player
+maskedDefId: 198717
+maxb: 3200

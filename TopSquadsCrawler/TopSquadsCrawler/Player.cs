@@ -13,7 +13,7 @@ namespace CrawlerDemo
         [JsonProperty("rating")]
         public int Rating { get; internal set; }
 
-        [JsonProperty("position
+        [JsonProperty("position")]
         public string Position { get; internal set; }
         public string ImageUrl { get; internal set; }
         public string Color { get; set; }
